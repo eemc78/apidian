@@ -1,0 +1,2 @@
+CREATE DATABASE `apidian`
+    DEFAULT CHARACTER SET = 'utf8mb4';
