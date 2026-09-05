@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # @eemc78/apidian
 
 API de integración con la DIAN (Colombia) para Facturación Electrónica y consulta de documentos. Esta aplicación puede ser ejecutada de manera independiente como un servidor Express o utilizada como librería (módulo) dentro de otros proyectos Node.js.
@@ -79,3 +80,7 @@ npm start
 
 ## Licencia
 MIT
+=======
+# apidian
+API para consultar las resoluciones y consultar documentos ante la DIAN 
+>>>>>>> e61d2004b3bf99161085769277323fa35221fedf
