@@ -1,0 +1,12 @@
+# Ignorar archivos sensibles y temporales
+uploads/
+scratch/
+apiDIAN/
+*.sqlite
+*.db
+.env
+.env.*
+.vscode/
+tests/
+node_modules/
+package-lock.json
